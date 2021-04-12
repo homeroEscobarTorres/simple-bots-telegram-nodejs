@@ -1,2 +1,3 @@
-# simple-bots-telegram
-Different telegram bots: reddit search, currency converter and chat bot with node.js
+# simple-bots-telegram-nodejs
+
+Different telegram bots: reddit search, currency converter and chat bot build with node.js
